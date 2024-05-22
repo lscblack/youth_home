@@ -17,4 +17,4 @@ Visit our website to learn more:
 ![image](https://github.com/lscblack/youth_home/assets/141139366/f5eebb1f-b23a-4cb9-b79f-9476ef81c089)
 
 ## Author & Developer
-Loue Sauveur Christian(lscblack) Acting 
+Loue Sauveur Christian(lscblack) 
